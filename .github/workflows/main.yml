@@ -12,6 +12,9 @@ name: 'Update schedule'
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write  # 允许写入仓库内容
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}

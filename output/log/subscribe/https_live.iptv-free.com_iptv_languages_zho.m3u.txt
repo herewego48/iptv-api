@@ -407,8 +407,6 @@ https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS-Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="tvNAsia.hk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png" group-title="Entertainment",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="Undefined",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="WCETVDigitalChannel318.us@SD" tvg-logo="https://i.imgur.com/l0UO27k.png" group-title="General",WCETV Digital Channel 31.8
@@ -435,4 +433,4 @@ https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/NFFQNhq.png" group-title="Undefined",Zhejiang Satellite TV (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-2026-10-18 03:01:15
+2026-10-19 03:01:12
